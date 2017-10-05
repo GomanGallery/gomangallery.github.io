@@ -1,0 +1,18 @@
+html, body {
+    align-items: center;
+    direction: rtl;
+    display: flex;
+    flex-direction: column;
+    font-family: Tahoma;
+    height: 100vh;
+    justify-content: center;
+    margin: 0;
+    overflow: hidden;
+    width: 100vw;
+}
+
+h1 {
+    color: #bebebe;
+    font-size: 36px;
+    font-weight: 400;
+}
